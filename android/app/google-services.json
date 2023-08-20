@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "266974918093",
+    "project_id": "gospendr",
+    "storage_bucket": "gospendr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266974918093:android:a2687a9ae60e6663ad0084",
+        "android_client_info": {
+          "package_name": "com.example.go_spendr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266974918093-f7i8uhbsrb54h0ejt7ahi081ddb5gble.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClijRmaSOf88mNbS_ywhBtK1N-Vc7Yht0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266974918093-f7i8uhbsrb54h0ejt7ahi081ddb5gble.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266974918093:android:29514c52f31096bfad0084",
+        "android_client_info": {
+          "package_name": "com.example.go_spendr_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266974918093-f7i8uhbsrb54h0ejt7ahi081ddb5gble.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClijRmaSOf88mNbS_ywhBtK1N-Vc7Yht0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266974918093-f7i8uhbsrb54h0ejt7ahi081ddb5gble.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
